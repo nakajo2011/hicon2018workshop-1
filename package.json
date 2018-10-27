@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "truffle test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nakajo2011/hicon2018workshop-1.git"
   },
-  "author": "Yukishige Nakajo <nakajo@haw.co.jp> (http://y-nakajo.hatenablog.com/)",
+  "author": "Yukishige Nakajo <nakajo@chaintope.com> (http://y-nakajo.hatenablog.com/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nakajo2011/hicon2018workshop-1/issues"
